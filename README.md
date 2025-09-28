@@ -1,4 +1,4 @@
-# Unboxing_Zara
+# Unboxing_Zara: Visualizing the Invisible Forces Behind Its Sales Growth
 
 ## Abstract
 In a world dominated by sales discounts and seasonal pushes, Zara stands out — not just by design, but by strategy. This case study visually explores Zara’s sustained sales growth, revealing how perception, pricing psychology, and Gestalt design principles — not promotions — drive its performance.
